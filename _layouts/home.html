@@ -19,14 +19,23 @@ layout: default
   </div>
 {% endfor %} -->
 
-<h1>
-  {{ page.title }}
-</h1>
-<article>
-  {{ content }}
-</article>
+<div class="row">
+  <div class="col-xs-12">
+    <center>
+      <img src="{{ site.github.url }}/assets/img/linkedinprofile.png" alt="Home" width="80%">
+    </center>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-12">
+    <br>
+	   <center><h3 class="fw-bold border-bottom pb-3 mb-3">Undergraduate Student <br> @ UC Berkeley!</h3></center>
+     Incoming Senior studying Computer Science. <br> <br> 
 
-Pagination links
+	   Interested in software engineering, cognitive neuroscience, AI/ML, and entrepreneurship. Feel free to reach out at pranavxiyer@berkeley.edu!
+  </div>
+
+<!-- Pagination links -->
 <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-button pagination-active next" href="{{ site.github.url }}{{ paginator.next_page_path }}">{{ site.data.settings.pagination.previous_page }}</a>
