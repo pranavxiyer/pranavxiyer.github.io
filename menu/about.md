@@ -8,12 +8,12 @@ Aside from my academic interests, I love all things related to music, sports, te
 
 ### Currently I am
 
-#### **Listening to:** 
+**Listening to:** 
 Brent Faiyaz, Drake, Kaytranada
 
-#### **Watching:** 
+**Watching:** 
 Suits, The Summer I Turned Pretty
 
-#### **Reading:** 
+**Reading:** 
 Why We Sleep: The New Science of Sleep and Dreams by Matthew Walker
 
