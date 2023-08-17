@@ -1,9 +1,16 @@
 ---
 layout: page
-title: About Me!
+title: About Me
 permalink: /about
 ---
 
-Lagrange is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused blogging platform for your personal site or blog. Below you can find everything you need to get started.
+Aside from my academic interests, I love all things related to music, sports, television, and weightlifting. 
 
-### Getting Started
+### Currently I am
+
+#### **Listening to:** Brent Faiyaz, Drake, Kaytranada
+
+#### **Watching:** Suits, The Summer I Turned Pretty
+
+#### **Reading:** Why We Sleep: The New Science of Sleep and Dreams by Matthew Walker
+
