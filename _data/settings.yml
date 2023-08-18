@@ -8,7 +8,6 @@ google-ID: 'UA-112060364-1'
 
 menu:
 - {name: 'About',   url: 'about.html'}
-- {name: 'Writing', url: 'writing.html'}
 - {name: 'Experience', url: 'experience.html'}
 - {name: 'Projects', url: 'projects.html'}
 - {name: 'Contact', url: 'contact.html'}
