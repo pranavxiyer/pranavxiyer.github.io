@@ -7,7 +7,7 @@ permalink: /experience
 * ### Johnson & Johnson - Paradigm Consulting
 *Software Developer Contract* <br>
 Patient authorization tool to connect third party healthcare providers with Janssen Pharma. <br>
-**Skills:** NodeJS, Firebase, Twilio, MongoDB, Amazon S3
+**Skills:** NodeJS, React, Firebase, Twilio, MongoDB, Amazon S3
 
 
 * ### R.J. O'Brien & Associates LLC - Fixed Income Group
@@ -18,9 +18,9 @@ CME Direct to Bloomberg Voice Control Trade code translator through message pars
 * ### Amazon Web Services - Paradigm Consulting
 *Software Developer Contract* <br>
 Dashboard for Telco companies to analyze factors contributing towards their total cost of ownership. <br>
-**Skills:** Python, Dash, NumPy, Amazon DynamoDB
+**Skills:** Python, Plotly Dash, NumPy, Amazon DynamoDB
 
 * ### University of California, Berkeley - CS 61B/Data 8
 *Academic Student Intern* <br>
 Content and academic support in the courses “Data Structures” and “Foundations of Data Science”. <br>
-**Skills:** Java, Python, Data Stuctures/Algorithms, Statistical Modeling/Hypothesis Testing
+**Skills:** Java, Python, Data Structures, Statistical Modeling
