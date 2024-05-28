@@ -6,14 +6,14 @@ permalink: /about
 
 Aside from my academic interests, I love all things related to music, sports, television, and weightlifting. 
 
-### Currently I am
+### Currently, I am
 
 **Listening to:** 
-Brent Faiyaz, Drake, Kaytranada
+Brent Faiyaz, Kaytranada, Zayn Malik
 
 **Watching:** 
-Suits, The Summer I Turned Pretty
+The Resident, All American
 
-**Reading:** 
-Why We Sleep: The New Science of Sleep and Dreams by Matthew Walker
+**Learning:** 
+How to Become the Most Profitable Sports Bettor
 
